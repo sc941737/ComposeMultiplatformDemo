@@ -1,0 +1,15 @@
+**/build/**
+build
+*.class
+*.jar
+*.zip
+*.tar.gz
+.gradle
+.DS_Store
+.idea/*
+Pods
+.project
+.settings
+.classpath
+*iml
+.cache
